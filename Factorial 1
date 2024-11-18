@@ -2,7 +2,7 @@ def factorial(n):
     if n==0:
         return 1
     result=1
-    for i n rangew(1,n+1):
+    for i n range(1,n+1):
         result*=i
     return result
 n=int(input())
